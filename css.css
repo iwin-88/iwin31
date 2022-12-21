@@ -1,0 +1,30 @@
+/* @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300); */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.blog-1{
+    background: url(./img/banner/4-01.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    width: 100%;
+}
+.blog-3{
+    background: url(./img/banner/1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    width: 100%;
+}
+.blog-4{
+    background: url(./img/banner/3.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    width: 100%;
+}
